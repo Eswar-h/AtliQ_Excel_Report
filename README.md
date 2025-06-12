@@ -10,14 +10,14 @@ Create a detailed analysis of customer performance over the years, highlighting 
 
 Conduct a comprehensive comparison between market performance and sales targets, providing insights into the success of sales strategies.
 # Finance Report
-## Profit and Loss (P&L) Reports by Fiscal Year and Months:
+Profit and Loss (P&L) Reports by Fiscal Year and Months..
 
 Generate Profit and Loss reports categorized by fiscal year and months to evaluate financial performance over different time frames.
 ## Profit and Loss (P&L) Reports by Markets:
 
 Create Profit and Loss reports categorized by markets to aid in benchmarking against industry peers and previous periods.
 ## Lessons Learned
-Through the completion of this project, I gained valuable insights and developed several skills, both technical and soft skills. Here's what I learned:
+Through the completion of this project, I gained valuable insights and developed several skills, both technical and soft skills. Here's what I learned.
 
 ## Technical Skills
 Data Analysis Techniques: Utilized ETL (Extract, Transform, Load) methodology for processing data efficiently.
